@@ -30,9 +30,10 @@ We remind here in italic the description of the measurements, extracted from the
 
 This being written, we can now describe the column of the final data set
 
-Subject_Id 		: identifier of the subject from either train data set or test data set. This information comes directly from the 'test\subject_test.txt' and 'train\subject_train.txt' 
+* Subject_Id 		: identifier of the subject from either train data set or test data set. This information comes directly from the 'test\subject_test.txt' and 'train\subject_train.txt' 
 				  files
-Activity_Name	: name of the 6 main activities performed by the subjects : WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING and LAYING. These values come directly 
+				  
+* Activity_Name	: name of the 6 main activities performed by the subjects : WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING and LAYING. These values come directly 
 				  from the second column of file 'activity_levels.txt' located at the root of the folder 'UCI HAR Dataset'
 				  
 Column name in final data set | Original feature name | Original feature id 
